@@ -33,7 +33,7 @@ OPENROUTER_API_KEY = "your_key_here"
 TZ = "Your_timezone"
 UTC_OFFSET = Your_Offset
 AI_PROMPT = "Describe this image in 5-10 simple words."
-
+```
 3. Installation
 Copy code.py to your MEMENTO.
 
