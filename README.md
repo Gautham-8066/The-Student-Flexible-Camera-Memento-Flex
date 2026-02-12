@@ -1,2 +1,55 @@
-# The-Student-Flexible-Camera-Memento-Flex
-Memento Flex is a smart, DIY camera project built for the Adafruit MEMENTO. It is designed to be a "flexible" companion for students—helping you document projects, create art, and use AI to understand the world around you.
+📸 Memento Flex
+Memento Flex is a versatile, AI-powered smart camera built on the Adafruit MEMENTO hardware. Designed for students, creators etc, it "flexes" between a standard digital camera, a scientific observation tool, and an AI-vision assistant.
+
+## ✨ Features
+
+* **🧠 AI-Powered Insights:** Connects to OpenRouter to provide real-time image descriptions.
+* **⏳ Smart Time-Lapse:** Includes a "Low Power" mode that dims the screen to save battery during long observations.
+* **🎞️ Animation Suite:** Support for both looping GIFs and Onion-skinning Stop Motion.
+* **🌐 Automated Sync:** Fetches local time automatically via NTP over Wi-Fi.
+* **🛠️ Custom Text UI:** Result text is intelligently wrapped and scaled to be readable on the 240x240 display.
+
+---
+
+## 🚀 Setup Instructions
+
+### 1. Requirements
+* **Hardware:** Adafruit MEMENTO Camera board & a microSD card.
+* **Firmware:** [CircuitPython 9.x](https://circuitpython.org/board/adafruit_memento_camera/)
+* **API Key:** A free or paid key from [OpenRouter.ai](https://openrouter.ai/).
+
+### 2. Configuration
+Create a `settings.toml` file on your `CIRCUITPY` drive. **Do not share this file publicly!**
+
+```toml
+# Wi-Fi Settings
+CIRCUITPY_WIFI_SSID = "Your_Network_Name"
+CIRCUITPY_WIFI_PASSWORD = "Your_Password"
+
+# AI & Time Settings
+OPENROUTER_API_KEY = "your_key_here"
+TZ = "Your_timezone"
+UTC_OFFSET = Your_Offset
+AI_PROMPT = "Describe this image in 5-10 simple words."
+
+3. Installation
+Copy code.py to your MEMENTO.
+
+Ensure your lib folder contains the necessary Adafruit libraries (found in the Adafruit Bundle).
+
+Restart your device.
+
+## 🕹️ Controls
+
+| Button | Action |
+| :--- | :--- |
+| **Shutter (Click)** | Snap Photo / Record GIF / Capture Frame |
+| **Shutter (Long)** | Trigger Autofocus |
+| **OK Button** | **JPEG Mode:** Analyze with AI <br> **LAPS Mode:** Start/Stop Time-lapse |
+| **D-Pad** | Navigate Settings (Resolution, Effects, Mode, etc.) |
+| **Select Button** | Change Sub-modes (e.g., High/Low Power in LAPS) |
+
+📜 Credits
+Authors: Jeff Epler & Limor Fried (Adafruit Industries).
+
+Modifications: [Gautham Chenoth Praveen/[Github Handle](https://github.com/Gautham-8066)]
