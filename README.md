@@ -17,7 +17,7 @@
 
 ### 1. Requirements
 * **Hardware:** Adafruit MEMENTO Camera board & a microSD card.
-* **Firmware:** [CircuitPython 9.x](https://circuitpython.org/board/adafruit_memento_camera/)
+* **Firmware:** [CircuitPython 10.x](https://circuitpython.org/board/adafruit_memento_camera/)
 * **API Key:** A free or paid key from [OpenRouter.ai](https://openrouter.ai/).
 
 ### 2. Configuration
