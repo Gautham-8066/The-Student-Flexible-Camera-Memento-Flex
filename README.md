@@ -34,12 +34,13 @@ TZ = "Your_timezone"
 UTC_OFFSET = Your_Offset
 AI_PROMPT = "Describe this image in 5-10 simple words."
 ```
-3. Installation
-Copy code.py to your MEMENTO.
+## 🚀 Installation
 
-Ensure your lib folder contains the necessary Adafruit libraries (found in the Adafruit Bundle).
-
-Restart your device.
+1. **Upload Code:** Copy the `code.py` file from this repository onto your MEMENTO's `CIRCUITPY` drive.
+2. **Install Libraries:** Ensure your `lib` folder on the MEMENTO contains the necessary Adafruit libraries. 
+   > **Note:** You can find these in the [Adafruit CircuitPython Library Bundle](https://circuitpython.org/libraries).
+3. **Configure:** Make sure your `settings.toml` is set up with your Wi-Fi and API credentials.
+4. **Restart:** Press the **Reset** button on the top of your MEMENTO to start the **Flex** software.
 
 ## 🕹️ Controls
 
