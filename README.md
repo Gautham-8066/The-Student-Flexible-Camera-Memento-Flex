@@ -61,4 +61,3 @@ AI_PROMPT = "Describe this image in 5-10 simple words."
 
 ---
 
-> *Project developed as part of a flexible student learning initiative, exploring the intersection of embedded systems and Cloud AI.*
