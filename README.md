@@ -52,7 +52,13 @@ AI_PROMPT = "Describe this image in 5-10 simple words."
 | **D-Pad** | Navigate Settings (Resolution, Effects, Mode, etc.) |
 | **Select Button** | Change Sub-modes (e.g., High/Low Power in LAPS) |
 
-📜 Credits
-Authors: Jeff Epler & Limor Fried (Adafruit Industries).
+---
 
-Modifications: [Gautham Chenoth Praveen/[Github Handle](https://github.com/Gautham-8066)]
+## 📜 Credits
+
+* **Original Authors:** [Jeff Epler]& [Limor Fried] ([Adafruit Industries](https://www.adafruit.com/)).
+* **Modifications & "Flex" Features:** [Gautham Chenoth Praveen](https://github.com/YOUR_GITHUB_HANDLE_HERE).
+
+---
+
+> *Project developed as part of a flexible student learning initiative, exploring the intersection of embedded systems and Cloud AI.*
