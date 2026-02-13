@@ -66,7 +66,7 @@ AI_PROMPT = "Describe this image in 5-10 simple words."
 
 ## 📜 Credits
 
-* **Original Authors:** Jeff Epler& Limor Fried ([Adafruit Industries](https://www.adafruit.com/)).
+ ([Adafruit Industries](https://www.adafruit.com/)).
 * **Modifications & "Flex" Features:** [Gautham Chenoth Praveen](https://github.com/Gautham-8066).
 
 ---
