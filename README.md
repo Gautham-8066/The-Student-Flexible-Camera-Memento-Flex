@@ -59,7 +59,7 @@ AI_PROMPT = "Describe this image in 5-10 simple words."
 ![WhatsApp Image 2026-02-13 at 12 00 34 PM (1)](https://github.com/user-attachments/assets/24b47181-d589-489e-b888-24d7f6838c1d)
 ![WhatsApp Image 2026-02-13 at 12 00 34 PM](https://github.com/user-attachments/assets/b5d39002-fbf5-4e58-b798-71cf98e048fe)
 
-Image captured for AI powered mode(compressed)
+**Image captured for AI powered mode(compressed)**
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/61a8794c-1cbc-4270-b97e-0c92974cf8a3" />
 
 
