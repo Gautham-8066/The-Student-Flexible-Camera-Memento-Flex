@@ -1,5 +1,5 @@
-# SPDX-FileCopyrightText: 2023 Jeff Epler & Limor Fried for Adafruit Industries
-# SPDX-License-Identifier: Unlicense
+# SPDX-FileCopyrightText: 2026 Gautham Chenoth Praveen for Adafruit Industries
+# SPDX-License-Identifier: MIT license
 
 import os
 import ssl
