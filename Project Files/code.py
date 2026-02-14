@@ -1,4 +1,4 @@
-# SPDX-FileCopyrightText: 2026 Gautham Chenoth Praveen for Adafruit Industries
+# SPDX-FileCopyrightText: 2026 Gautham Chenoth Praveen 
 # SPDX-License-Identifier: MIT license
 
 import os
