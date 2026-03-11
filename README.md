@@ -69,5 +69,7 @@ AI_PROMPT = "Describe this image in 5-10 simple words."
  ([Adafruit Industries](https://www.adafruit.com/)).
 * **Modifications & "Flex" Features:** [Gautham Chenoth Praveen](https://github.com/Gautham-8066).
 
+* **References:** [OpenAI Image Descriptors with MEMENTO By Liz Clark](https://learn.adafruit.com/openai-image-descriptors-with-memento) , [Remote Shutter Button for MEMENTO By Ruiz Brothers](https://learn.adafruit.com/memento-shutter) , https://learn.adafruit.com/adafruit-memento-camera-board/fancy-camera.
+
 ---
 
