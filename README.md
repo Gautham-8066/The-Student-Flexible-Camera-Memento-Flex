@@ -21,8 +21,7 @@
 * **API Key:** A free or paid key from [OpenRouter.ai](https://openrouter.ai/).
 
 ### 2. Configuration
-Create a `settings.toml` file on your `CIRCUITPY` drive. **Do not share this file publicly!**
-
+Create a `settings.toml` file on your `CIRCUITPY` drive. 
 ```toml
 # Wi-Fi Settings
 CIRCUITPY_WIFI_SSID = "Your_Network_Name"
