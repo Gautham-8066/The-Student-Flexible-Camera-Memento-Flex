@@ -1,6 +1,6 @@
 # Memento Flex
 
-**The Student "Flexible" Camera** — Memento Flex is a versatile, AI-powered smart camera built on [Adafruit MEMENTO](https://www.adafruit.com/product/5420).
+**The Student "Flexible" Camera** - Memento Flex is a versatile, AI-powered smart camera built on [Adafruit MEMENTO](https://www.adafruit.com/product/5420).
  Designed for students, creators etc, it "flexes" between a standard digital camera, a scientific observation tool, and an AI-vision assistant.
 
 ## Features
